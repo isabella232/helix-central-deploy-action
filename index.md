@@ -1,5 +1,7 @@
-# Foo
+ Foo
 
-bar baz bang
+ <em>Foo</em>
 
-Hello World
+ ---
+
+ bar
