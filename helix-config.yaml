@@ -3,4 +3,4 @@ strains:
   - name: default
     content: https://github.com/adobe/helix-central-deploy-action.git#master
     code: https://github.com/adobe/helix-central-deploy-action.git#master
-    static: https://github.com/adobe/helix-central-deploy-action.git#master
+    static: https://github.com/adobe/helix-central-deploy-action.git/htdocs#master
