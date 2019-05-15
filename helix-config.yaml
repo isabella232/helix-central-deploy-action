@@ -4,3 +4,4 @@ strains:
     content: https://github.com/adobe/helix-central-deploy-action.git#master
     code: https://github.com/adobe/helix-central-deploy-action.git#master
     static: https://github.com/adobe/helix-central-deploy-action.git/htdocs#master
+    package: varner/a12fcfecb5eb8db6b8c1b3d634a797411d45ffe4
